@@ -1,0 +1,5 @@
+dive into
+This book illustrates Java concepts via non-Android Java applications.
+This chapter sets the stage for teaching you the essential Java concepts that you need to understand before you embark on your Android career.
+This application gives you a significant taste of the Java language,and is the centerpiece of my discussion on developing applications.
+originate
